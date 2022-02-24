@@ -22,7 +22,7 @@ interface IERC20 {
 ```
 
 ### UniSwap Factory and Exchange
-Feblix uses the PancakeSwap contracts to enable swapping tokens:
+GOPO uses the PancakeSwap contracts to enable swapping tokens:
 
 ```Solidity
 // PancakeSwap Interface
